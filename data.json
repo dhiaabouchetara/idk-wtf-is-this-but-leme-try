@@ -1,0 +1,21 @@
+{
+    "open": true,
+    "full_times": [],
+    "bookings": [
+        {
+            "name": "dhiaa",
+            "from": "20:00",
+            "to": "21:00"
+        },
+        {
+            "name": "dhiaa",
+            "from": "01:00",
+            "to": "19:00"
+        },
+        {
+            "name": ".",
+            "from": "19:00",
+            "to": "21:00"
+        }
+    ]
+}
